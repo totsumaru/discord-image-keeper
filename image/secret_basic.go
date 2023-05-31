@@ -2,16 +2,20 @@ package image
 
 import (
 	"github.com/bwmarrin/discordgo"
+	"github.com/techstart35/discord-image-keeper/image/shared"
 )
+
+// ここは単体の画像を指定
+const imageURL = ""
 
 func SecretBasic(s *discordgo.Session, i *discordgo.InteractionCreate) {
 	if i.Type == discordgo.InteractionMessageComponent &&
-		i.MessageComponentData().CustomID == CustomID_Next {
+		i.MessageComponentData().CustomID == shared.CustomID_Next {
 
 		embed := &discordgo.MessageEmbed{
 			Description: "埋め込みメッセージ",
 			Image: &discordgo.MessageEmbedImage{
-				URL: ImageURL,
+				URL: imageURL,
 			},
 		}
 

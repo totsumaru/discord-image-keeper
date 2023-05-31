@@ -2,18 +2,19 @@ package image
 
 import (
 	"github.com/bwmarrin/discordgo"
+	"github.com/techstart35/discord-image-keeper/image/shared"
 )
 
 // パネルを作成します
 func PanelCreate(s *discordgo.Session, m *discordgo.MessageCreate) {
-	if m.Content != CMDNamePanelCreate {
+	if m.Content != shared.CMDNamePanelCreate {
 		return
 	}
 
 	btn1 := discordgo.Button{
 		Label:    "Next",
 		Style:    discordgo.PrimaryButton,
-		CustomID: CustomID_Next,
+		CustomID: shared.CustomID_Next,
 	}
 
 	actions := discordgo.ActionsRow{
