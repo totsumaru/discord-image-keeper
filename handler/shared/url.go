@@ -3,9 +3,9 @@ package shared
 // 全てのURLをここに記載します
 var ImageURLs = []string{
 	// RGのDMオフ（日本語）
-	"https://storage.googleapis.com/verify-step-bot-for-red-ginger/dm-off.png",
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1113653792018280529/dm-off.png",
 	// RGのDMオフ（英語）
-	"https://storage.googleapis.com/verify-step-bot-for-red-ginger/dm-off-en.png",
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1113653881965133874/dm-off-en.png",
 	// IZUMOのDMオフ（日本語）
 	"https://cdn.discordapp.com/attachments/984614055681613867/1081373848345260042/2023-03-04_9.33.31.png",
 	// IZUMOのDMオフ（英語）
