@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/bwmarrin/discordgo"
 	"github.com/joho/godotenv"
-	"github.com/techstart35/discord-image-keeper/image"
+	"github.com/techstart35/discord-image-keeper/handler"
 	"log"
 	"os"
 	"os/signal"
@@ -31,9 +31,9 @@ func main() {
 		log.Fatalln(err)
 	}
 
-	session.AddHandler(image.Basic)
-	session.AddHandler(image.PanelCreate)
-	session.AddHandler(image.SecretBasic)
+	session.AddHandler(handler.Basic)
+	session.AddHandler(handler.PanelCreate)
+	session.AddHandler(handler.SecretBasic)
 
 	if err = session.Open(); err != nil {
 		log.Fatalln(err)

@@ -1,8 +1,8 @@
-package image
+package handler
 
 import (
 	"github.com/bwmarrin/discordgo"
-	"github.com/techstart35/discord-image-keeper/image/shared"
+	"github.com/techstart35/discord-image-keeper/handler/shared"
 )
 
 // パネルを作成します
