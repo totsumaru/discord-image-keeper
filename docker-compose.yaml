@@ -1,0 +1,10 @@
+version: "3.8"
+services:
+  go:
+    image: discord-image-keeper
+    container_name: discord-image-keeper
+    build: .
+    volumes:
+      - "./:/go/src"
+    tty: true
+    restart: always
