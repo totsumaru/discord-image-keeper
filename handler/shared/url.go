@@ -16,4 +16,12 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1106943368749121636/Yay.png",
 	// IZUMOのOnbordingの最後
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1106945011205029968/welcome3.gif",
+	// THE ANARCHYのロゴ
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1115225765542363166/anarchy.jpg",
+	// IZUMOのconnectコマンド
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1115276344708825108/2023-06-05_22.49.53.png",
+	// IZUMO QuestのSTEP1の画像（Ailisおじぎ）
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1115549494520578098/09_512px.png",
+	// IZUMO QuestのSTEP3の画像（Ailisおじぎ）
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1115550098647171072/12_512px_1.png",
 }
