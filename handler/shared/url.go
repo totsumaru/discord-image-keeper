@@ -24,4 +24,6 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1115549494520578098/09_512px.png",
 	// IZUMO QuestのSTEP3の画像（Ailisおじぎ）
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1115550098647171072/12_512px_1.png",
+	// ガチャガチャ（アナーキー）
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1115571819362136064/AdobeStock_483707441.jpeg",
 }
