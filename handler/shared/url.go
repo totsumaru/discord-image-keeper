@@ -26,4 +26,8 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1115550098647171072/12_512px_1.png",
 	// ガチャガチャ（アナーキー）
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1115571819362136064/AdobeStock_483707441.jpeg",
+	// 削除OK カプセルを開ける
+	"https://cdn.discordapp.com/attachments/1067807967950422096/1115604195991629874/2023-06-06_20.28.23.png",
+	// 削除OK 当たり
+	"https://cdn.discordapp.com/attachments/1067807967950422096/1115604196473966633/2023-06-06_20.31.42.png",
 }
