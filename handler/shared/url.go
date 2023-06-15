@@ -32,6 +32,10 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1118881327614271569/Congrats.png",
 	// IZUMO（Ailis Thank you）
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1118881570254753882/Thankyou.png",
+	// IZUMO（Ailis Excited）
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1118888605943869580/Excited.png",
+	// IZUMO（Ailis Good Luck)
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1118888781186072646/Goodluck.png",
 	// アナーキー: ガチャ画像
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1116312631721066517/title_3.png",
 	// アナーキー: カプセルオープン
