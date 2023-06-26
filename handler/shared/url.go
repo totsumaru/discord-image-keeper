@@ -52,4 +52,24 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1120971084737560627/hazure_04.png",
 	// アナーキー: 当たり
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1116312750277263390/atari.png",
+	// RG: slot TOP
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122880972094984304/4eb3d3bc86865188.png",
+	// RG: slot 回転GIF
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881161769795714/b57d42376b9173e2.gif",
+	// RG: slot REDx3
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881687941025792/RGSLOT_RED.png",
+	// RG: slot GINx3
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881716068045023/RGSLOT_GIN.png",
+	// RG: slot GERx3
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881739166060644/RGSLOT_GER.png",
+	// RG: slot 紅x3
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881757415493674/RGSLOT_.png",
+	// RG: slot 生x3
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881775505518612/RGSLOT_.png",
+	// RG: slot 姜x3
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881790554689546/RGSLOT_.png",
+	// RG: slot RED-GIN-GER
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881805603835976/RGSLOT_REDGINGER.png",
+	// RG: slot 紅-生-姜
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881823878422669/RGSLOT_.png",
 }
