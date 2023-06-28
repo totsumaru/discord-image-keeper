@@ -72,4 +72,6 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881805603835976/RGSLOT_REDGINGER.png",
 	// RG: slot 紅-生-姜
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1122881823878422669/RGSLOT_.png",
+	// RG: slog ???当たり
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1123517363992666132/RGSLOT_GAKU.png",
 }
