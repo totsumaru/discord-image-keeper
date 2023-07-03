@@ -50,6 +50,8 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1119037463650914344/hazure_03.png",
 	// アナーキー: はずれ4
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1120971084737560627/hazure_04.png",
+	// アナーキー: はずれ5
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1125368074208555078/hazure_05.png",
 	// アナーキー: 当たり
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1116312750277263390/atari.png",
 	// RG: slot TOP
