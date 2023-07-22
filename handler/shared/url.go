@@ -38,6 +38,10 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1118888781186072646/Goodluck.png",
 	// IZUMO（Ailis ガッツ)
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1118893627226206239/Brawny_1.png",
+	// IZUMO: Discord-Twitter connect(en)
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1132345871250497686/image_en.png",
+	// IZUMO: Discord-Twitter connect(jp)
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1132345871841906728/image_jp.png",
 	// アナーキー: ガチャ画像
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1116312631721066517/title_3.png",
 	// アナーキー: カプセルオープン
