@@ -60,6 +60,10 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1116312750277263390/atari.png",
 	// アナーキー: ブロンズ
 	"https://media.discordapp.net/attachments/1103240223376293938/1128924752396963900/bronze.png?width=256&height=256",
+	// アナーキー: シルバー
+	"https://media.discordapp.net/attachments/1103240223376293938/1133570074867929188/silver.png?width=1068&height=1068",
+	// アナーキー: ゴールド
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1133570074461077504/gold.png",
 	// RG: slot TOP
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1122880972094984304/4eb3d3bc86865188.png",
 	// RG: slot 回転GIF
