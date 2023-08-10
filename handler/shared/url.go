@@ -38,6 +38,14 @@ var ImageURLs = []string{
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1118888781186072646/Goodluck.png",
 	// IZUMO（Ailis ガッツ)
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1118893627226206239/Brawny_1.png",
+	// IZUMO（Ailis Oopsie テヘペロ)
+	"https://media.discordapp.net/attachments/1103240223376293938/1139000594338693211/Oopsie.png?width=1068&height=1068",
+	// IZUMO（Ailis GONGRATULATIONS!-1)
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1139001327779852328/congratulation_1_640p.gif",
+	// IZUMO（Ailis GONGRATULATIONS!-2)
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1139001328450932776/congratulation_2_640p.gif",
+	// IZUMO（Ailis GONGRATULATIONS!-3)
+	"https://cdn.discordapp.com/attachments/1103240223376293938/1139001329067491479/congratulation_3_640p.gif",
 	// IZUMO: Discord-Twitter connect(en)
 	"https://cdn.discordapp.com/attachments/1103240223376293938/1132345871250497686/image_en.png",
 	// IZUMO: Discord-Twitter connect(jp)
